@@ -6,7 +6,7 @@ import TodoService from "../model";
   1. Ошибка в TodoService с js файлом
 */
 /* 
-  2. А что не так?
+  2. Что тут не так?
 */
 
 export const FetchTodos: FC = () => {
