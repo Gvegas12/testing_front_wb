@@ -6,6 +6,6 @@ const favourites = {
   LINKIN_PARK: 94,
 };
 
-function selectionSort(arr) {}
+const selectionSort = (arr) => {};
 
-console.log(selectionSort());
+console.log(selectionSort(favourites));
